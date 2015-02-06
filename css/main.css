@@ -1,0 +1,25 @@
+body {
+    background-color: blue;
+}
+
+@media (min-width: 675px) {
+  body {
+    background-color: orange;
+    }
+
+} /* End Mobile Styles */
+
+@media (min-width: 999px) {
+    body {
+    background-color: green;
+    }
+
+
+} /* End Tablet Styles */
+
+@media (min-width: 1280px) {
+  body {
+    background-color: purple;
+    }
+
+} /* End Desktop Styles */
