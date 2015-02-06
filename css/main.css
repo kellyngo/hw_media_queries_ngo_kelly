@@ -1,0 +1,29 @@
+body {
+    background-color: blue;
+}
+
+@media (max-width: 1080px) {
+    body {
+        background-color: orange;
+    }
+  }
+
+  @media (max-width: 550px) {
+    body {
+        background-color: green;
+    }
+
+  }
+
+  @media (max-width: 400px) {
+    body {
+        background-color: purple;
+    }
+
+  }
+
+
+
+1080px
+550px
+400px
